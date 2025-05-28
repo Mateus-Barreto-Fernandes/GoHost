@@ -5,4 +5,3 @@
 ![Diagrama de Classe 1 1](https://github.com/user-attachments/assets/0e7bdc59-603d-4ef6-9aad-1676a8f8704c)
 ![Fluxograma 1 0](https://github.com/user-attachments/assets/ffddef6b-bd48-4c09-9761-43b9913b856b)
 ![Fluxograma 1 1](https://github.com/user-attachments/assets/df07d4e5-4afb-4573-9b28-9c1ce9c4a6cb)
-
