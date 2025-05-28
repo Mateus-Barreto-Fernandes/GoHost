@@ -1,3 +1,15 @@
+Hoje 08/05/2025, nossa equipe realizou uma reunião de planejamento com o objetivo de alinhar os primeiros passos para o início do projeto, focando nos detalhes iniciais que irão orientar todas as etapas subsequentes. Os participantes envolvidos foram o Product Owner (PO), Front-end, Back-end, Arquiteto de software e DevOps.
+A principal meta foi estabelecer uma base clara para o começo do projeto, tendo como ponto de partida o levantamento de requisitos já disponível. A equipe concordou que, mesmo sem avançar para as modelagens ou desenvolvimento de imediato, é fundamental definir claramente os objetivos e tarefas iniciais para garantir uma atuação coordenada.
+Foram definidos os seguintes pontos de ação:
+Revisão e validação do levantamento de requisitos, identificando possíveis lacunas ou ajustes necessários.
+Elaboração de um roteiro de tarefas prioritárias para cada área: front-end, back-end, arquitetura e DevOps.
+Planejamento da criação de um repositório centralizado para controle de versões e documentação dos commits, visando manter um histórico organizado do progresso e das contribuições de cada membro.
+Definição de as primeiras atividades de cada equipe, como a criação de wireframes básicos, seleção de tecnologias, configuração de ambientes de desenvolvimento e elaboração de diagramas iniciais de arquitetura.
+Estabelecimento de prazos e próximas reuniões para acompanhar o avanço das tarefas iniciais, bem como troca de alinhamentos técnico e estratégico.
+Essa fase de planejamento visa garantir que todos os envolvidos estejam alinhados e preparados para iniciar as atividades de forma estruturada, com foco na comunicação eficiente e na organização do trabalho. Assim, podemos garantir que o início do projeto seja bem fundamentado, facilitando o desenvolvimento posterior e o sucesso das próximas etapas.
+
+
+
 Hoje 09/05/2025 trabalhamos intensamente no Figma e nas modelagens, focando na estrutura inicial do projeto. Nosso time realizou a criação de protótipos e começou a elaborar os wireframes principais, garantindo que os layouts atendam às necessidades definidas no levantamento de requisitos. Foi um dia de alinhamento para garantir que todas as telas estejam consistentes e prontas para as próximas fases de detalhamento.
 
 Hoje 10/05/2025 continuamos aprimorando as modelagens no Figma, avançando na definição de detalhes nos wireframes. Nosso objetivo foi refinar as interfaces, melhorar a navegação e ajustar elementos conforme o feedback preliminar. Além disso, estamos organizando as versões e atualizações para manter o fluxo de trabalho eficiente e garantir que as mudanças fiquem claras para toda a equipe.
