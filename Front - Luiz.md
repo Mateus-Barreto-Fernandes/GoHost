@@ -46,5 +46,15 @@ Barra de Pesquisa/Opção Hospedes
 ![image](https://github.com/user-attachments/assets/a79756b0-8e4d-4775-aa29-1a925b2f976e)
 
 
+Tudo em Modo escuro
+
+![image](https://github.com/user-attachments/assets/8ca3bf48-8079-4b96-9cb9-518161961d41)
+![image](https://github.com/user-attachments/assets/4e2bd466-a4b0-4fd1-b1b9-42d0496b07aa)
+![image](https://github.com/user-attachments/assets/ec101aef-fb2d-40fd-9b43-5f28aa5e5231)
+![image](https://github.com/user-attachments/assets/b082ee9d-6fa1-4334-ad3d-95ea246384f0)
+![image](https://github.com/user-attachments/assets/bcdd62cf-0202-4f56-995d-a456aa2331b9)
+
+
+
 
 
