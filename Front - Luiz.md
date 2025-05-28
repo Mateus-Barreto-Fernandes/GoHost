@@ -46,6 +46,18 @@ Barra de Pesquisa/Opção Hospedes
 ![image](https://github.com/user-attachments/assets/a79756b0-8e4d-4775-aa29-1a925b2f976e)
 
 
+Pop de Login
+
+![image](https://github.com/user-attachments/assets/fac96452-daa7-48b0-a5ef-eddcbb9dedbc)
+
+
+Pop de Cadastro
+
+![image](https://github.com/user-attachments/assets/fb7908fa-c3bd-4e4a-bc34-e1262cfc3942)
+
+
+
+
 Tudo em Modo escuro
 
 ![image](https://github.com/user-attachments/assets/8ca3bf48-8079-4b96-9cb9-518161961d41)
