@@ -60,24 +60,34 @@ Pop de Cadastro
 
 Tudo em Modo escuro
 
-![image](https://github.com/user-attachments/assets/8ca3bf48-8079-4b96-9cb9-518161961d41)
-
-
-
-![image](https://github.com/user-attachments/assets/4e2bd466-a4b0-4fd1-b1b9-42d0496b07aa)
+![image](https://github.com/user-attachments/assets/d801f1d9-dd0f-45f8-b71c-dabede94d33f)
 
 
 
 
-![image](https://github.com/user-attachments/assets/ec101aef-fb2d-40fd-9b43-5f28aa5e5231)
+![image](https://github.com/user-attachments/assets/a1b6eaaf-94e7-4773-8d83-7265d1e854ff)
 
 
 
-![image](https://github.com/user-attachments/assets/b082ee9d-6fa1-4334-ad3d-95ea246384f0)
+
+
+![image](https://github.com/user-attachments/assets/c9aced89-353d-4a6d-bb62-82c0799f98d8)
 
 
 
-![image](https://github.com/user-attachments/assets/bcdd62cf-0202-4f56-995d-a456aa2331b9)
+
+![image](https://github.com/user-attachments/assets/0deb74a8-d6e0-4d75-9084-bdb36874c67a)
+
+
+
+![image](https://github.com/user-attachments/assets/cc02ee25-13cf-4bec-9aa7-b314e64d392e)
+
+
+
+![image](https://github.com/user-attachments/assets/adffdd72-8173-4471-9184-258e3d286cde)
+
+
+
 
 
 
