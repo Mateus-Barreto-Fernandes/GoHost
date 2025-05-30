@@ -1,6 +1,10 @@
 
 Menu da Parte de Cima 
-![image](https://github.com/user-attachments/assets/d34082ac-72c3-4219-8b9d-d4784cb4329f)
+
+
+
+![image](https://github.com/user-attachments/assets/b7820593-649f-464e-95d6-012777fa8d41)
+
 
 
 Menu da parte das acomodações 
@@ -69,6 +73,18 @@ Opção de Quartos
 
 
 ![image](https://github.com/user-attachments/assets/720dde5a-0340-4a8f-8057-80d1e5895f3f)
+
+
+![image](https://github.com/user-attachments/assets/5fc8a33c-2ef2-460b-84b3-08edc2837767)
+
+
+
+![image](https://github.com/user-attachments/assets/7376fd3e-e30f-4d93-bb3a-374bdda2f8d5)
+
+
+![image](https://github.com/user-attachments/assets/dc0ef8e1-7f35-4479-a94e-ee89b7218d49)
+
+
 
 
 Pagina de Cadastros e de Entrar
