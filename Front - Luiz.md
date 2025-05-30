@@ -75,21 +75,24 @@ Opção de Quartos
 ![image](https://github.com/user-attachments/assets/720dde5a-0340-4a8f-8057-80d1e5895f3f)
 
 
-![image](https://github.com/user-attachments/assets/5fc8a33c-2ef2-460b-84b3-08edc2837767)
 
+
+![image](https://github.com/user-attachments/assets/77732096-49db-43b6-ad0f-40f36f0fba04)
 
 
 ![image](https://github.com/user-attachments/assets/7376fd3e-e30f-4d93-bb3a-374bdda2f8d5)
 
 
-![image](https://github.com/user-attachments/assets/dc0ef8e1-7f35-4479-a94e-ee89b7218d49)
+![image](https://github.com/user-attachments/assets/2ea5ee05-70d5-444f-9273-7856098e3e04)
+
 
 
 
 
 Pagina de Cadastros e de Entrar
 
-![image](https://github.com/user-attachments/assets/70811e14-89fc-4abb-bcaa-e79894c6df37)
+![image](https://github.com/user-attachments/assets/a324d697-33ff-4e83-921c-c5e440efd0e7)
+
 
 
 
