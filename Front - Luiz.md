@@ -71,19 +71,6 @@ Opção de Quartos
 ![image](https://github.com/user-attachments/assets/720dde5a-0340-4a8f-8057-80d1e5895f3f)
 
 
-
-
-Tudo em Modo escuro
-
-![image](https://github.com/user-attachments/assets/d801f1d9-dd0f-45f8-b71c-dabede94d33f)
-
-
-
-
-![image](https://github.com/user-attachments/assets/a1b6eaaf-94e7-4773-8d83-7265d1e854ff)
-
-
-
 Pagina de Cadastros e de Entrar
 
 ![image](https://github.com/user-attachments/assets/70811e14-89fc-4abb-bcaa-e79894c6df37)
@@ -91,21 +78,6 @@ Pagina de Cadastros e de Entrar
 
 
 
-
-![image](https://github.com/user-attachments/assets/c9aced89-353d-4a6d-bb62-82c0799f98d8)
-
-
-
-
-![image](https://github.com/user-attachments/assets/0deb74a8-d6e0-4d75-9084-bdb36874c67a)
-
-
-
-![image](https://github.com/user-attachments/assets/cc02ee25-13cf-4bec-9aa7-b314e64d392e)
-
-
-
-![image](https://github.com/user-attachments/assets/adffdd72-8173-4471-9184-258e3d286cde)
 
 
 
