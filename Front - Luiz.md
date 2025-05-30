@@ -1,6 +1,7 @@
 
 Menu da Parte de Cima 
-![image](https://github.com/user-attachments/assets/36e03e8c-ca00-4254-b245-7bdf060e385c)
+![image](https://github.com/user-attachments/assets/d34082ac-72c3-4219-8b9d-d4784cb4329f)
+
 
 Menu da parte das acomodações 
 
@@ -57,6 +58,20 @@ Pop de Cadastro
 
 
 
+Opção de Quartos
+
+![image](https://github.com/user-attachments/assets/0d3d3b58-e426-4529-a12e-1efe6b7372a2)
+
+
+
+![image](https://github.com/user-attachments/assets/66254641-3b25-4323-b671-b821cf68c4f4)
+
+
+
+![image](https://github.com/user-attachments/assets/720dde5a-0340-4a8f-8057-80d1e5895f3f)
+
+
+
 
 Tudo em Modo escuro
 
@@ -66,6 +81,12 @@ Tudo em Modo escuro
 
 
 ![image](https://github.com/user-attachments/assets/a1b6eaaf-94e7-4773-8d83-7265d1e854ff)
+
+
+
+Pagina de Cadastros e de Entrar
+
+![image](https://github.com/user-attachments/assets/70811e14-89fc-4abb-bcaa-e79894c6df37)
 
 
 
