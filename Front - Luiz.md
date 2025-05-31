@@ -109,6 +109,19 @@ Tema Dark
 
 
 
+Versão com Login dos dois temas
+
+
+![image](https://github.com/user-attachments/assets/0ac64689-465f-4941-a970-f0654ecb2c36)
+
+
+
+
+![image](https://github.com/user-attachments/assets/291a1eaf-cc24-4f75-8712-544faae6019d)
+
+
+
+
 
 
 
