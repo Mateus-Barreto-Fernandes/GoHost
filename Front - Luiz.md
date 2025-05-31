@@ -86,12 +86,28 @@ Opção de Quartos
 ![image](https://github.com/user-attachments/assets/2ea5ee05-70d5-444f-9273-7856098e3e04)
 
 
-
-
-
 Pagina de Cadastros e de Entrar
 
 ![image](https://github.com/user-attachments/assets/a324d697-33ff-4e83-921c-c5e440efd0e7)
+
+
+Tema Dark
+
+
+
+![image](https://github.com/user-attachments/assets/e3b61698-a00c-4337-8d71-2589fc8a8b24)
+
+
+![image](https://github.com/user-attachments/assets/eae6f6cb-91fd-497d-9fa0-64b03bd575ae)
+
+
+![image](https://github.com/user-attachments/assets/04b5a837-9583-4c38-8829-e58e83b09cfc)
+
+
+
+![image](https://github.com/user-attachments/assets/fb419a8c-6db0-4e5d-85dd-e3c78ce9ddfb)
+
+
 
 
 
