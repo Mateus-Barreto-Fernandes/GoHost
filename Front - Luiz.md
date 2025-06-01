@@ -127,12 +127,14 @@ Tema Dark
 Versão com Login dos dois temas
 
 
-![image](https://github.com/user-attachments/assets/0ac64689-465f-4941-a970-f0654ecb2c36)
+![image](https://github.com/user-attachments/assets/cd63fc91-e313-4acb-9da2-685b764ac32c)
 
 
 
 
-![image](https://github.com/user-attachments/assets/291a1eaf-cc24-4f75-8712-544faae6019d)
+
+![image](https://github.com/user-attachments/assets/27636b54-87e9-403e-88ea-c82875621f65)
+
 
 
 
