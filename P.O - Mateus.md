@@ -47,3 +47,11 @@ Na reta final do projeto, neste dia 01/06/2025, estou focado nas finalizações 
 Além disso, estou organizando todos os arquivos do projeto — incluindo código-fonte, protótipos, documentação técnica e o relatório sistemático — em uma estrutura limpa e padronizada, facilitando tanto a visualização quanto o acesso por parte do professor. Também estou fazendo testes finais para verificar possíveis erros ou comportamentos inesperados, realizando pequenos ajustes visuais e técnicos onde for necessário.
 
 Esse momento é crucial para garantir que a entrega reflita todo o esforço e o aprendizado adquiridos ao longo do desenvolvimento. A intenção é enviar um pacote completo, funcional e bem documentado, que demonstre claramente os objetivos alcançados, a colaboração da equipe e a qualidade técnica do trabalho produzido. Estou cuidando para que tudo esteja pronto para o envio dentro do prazo, representando da melhor forma possível o resultado do nosso projeto.
+
+Neste dia 01/06/2025, também realizei a reorganização completa do Trello do projeto, com o objetivo de deixá-lo alinhado com a estrutura e o estado final da aplicação. Fiz uma varredura geral em todos os cartões, ajustando títulos, descrições e etiquetas para que refletissem com clareza as tarefas realmente executadas durante o desenvolvimento.
+
+Movi todas as tarefas concluídas para a coluna de "Finalizadas", adicionei observações importantes sobre o que foi entregue em cada uma delas e arquivei cartões que estavam duplicados ou fora do escopo definido. Também atualizei os cartões de documentação e entrega final, incluindo checklists com os materiais que estão sendo preparados para envio ao professor.
+
+Além disso, adicionei um cartão-resumo com o status geral do projeto, mencionando as etapas principais já concluídas e os últimos ajustes feitos. Essa organização do Trello não só facilita a visualização do fluxo de trabalho que tivemos ao longo do projeto, como também deixa o histórico mais claro para futuras consultas, seja para fins de revisão ou apresentação.
+
+Com isso, o Trello está agora totalmente coerente com o projeto finalizado e pronto para ser apresentado como parte do processo de entrega, reforçando a organização e o comprometimento da equipe ao longo do desenvolvimento.
