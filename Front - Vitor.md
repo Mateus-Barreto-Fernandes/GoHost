@@ -67,7 +67,16 @@ Criada a página anuncios.html, que será aberta ao clicar em um anúncio.
 Estruturado o layout em HTML para exibir as informações completas da acomodação.
 Adicionado carrossel com bootstrap para exibição das imagens e galeria de fotos.
 Implementada estilização CSS para garantir um design organizado e responsivo
-Ajustado o comportamento dos elementos para boa experiência de navegação.
 
+===========================================================================================
+
+IMPLEMENTAÇÃO DA BARRA DE PESQUISA COM FUNCIONALIDADE DE FILTRO
+
+
+Adicionado um input de pesquisa utilizado
+Implementado um filtro em JavaScript para exibir apenas os resultados que correspondem à pesquisa.
+Melhorada a responsividade para garantir um funcionamento adequado em diferentes dispositivos.
 ============================================================================================
+
+
 
