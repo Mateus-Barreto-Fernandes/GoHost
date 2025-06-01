@@ -14,3 +14,9 @@ Configurada a comunicação  com o backend utilizando fetch para garantir efici�
 Criado um endpoint para atualizar as informações do usuário no banco de dados.
 Adicionado tratamento de erros para garantir que os dados sejam validados antes da atualização
 ======================================================================================
+IMPLEMENTAÇÃO DO SISTEMA DE CADASTRO DE USUÁRIOS
+
+Criada a página HTML com o formulário de cadastro.
+Adicionado estilos CSS para garantir uma interface limpa e responsiva..
+Configurada a comunicação com o backend via fetch para enviar os dados ao banc
+=========================================================================================
