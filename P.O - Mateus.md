@@ -42,3 +42,8 @@ Atualizei as entidades e relacionamentos para refletir corretamente as novas inf
 
 Essas correções nas modelagens trouxeram mais robustez à estrutura do projeto, evitaram possíveis erros de integração e deixaram o sistema mais preparado para consultas e manutenções futuras. Com isso, conseguimos alinhar completamente a base de dados com as necessidades atuais da aplicação, mantendo a organização e facilitando a leitura e o entendimento por parte de toda a equipe.
 
+Na reta final do projeto, neste dia 01/06/2025, estou focado nas finalizações gerais e na preparação de todos os materiais para o envio ao professor. Estou revisando cada parte do sistema para garantir que tudo esteja funcionando corretamente, desde a navegação no front-end até a comunicação com o back-end e a consistência dos dados armazenados.
+
+Além disso, estou organizando todos os arquivos do projeto — incluindo código-fonte, protótipos, documentação técnica e o relatório sistemático — em uma estrutura limpa e padronizada, facilitando tanto a visualização quanto o acesso por parte do professor. Também estou fazendo testes finais para verificar possíveis erros ou comportamentos inesperados, realizando pequenos ajustes visuais e técnicos onde for necessário.
+
+Esse momento é crucial para garantir que a entrega reflita todo o esforço e o aprendizado adquiridos ao longo do desenvolvimento. A intenção é enviar um pacote completo, funcional e bem documentado, que demonstre claramente os objetivos alcançados, a colaboração da equipe e a qualidade técnica do trabalho produzido. Estou cuidando para que tudo esteja pronto para o envio dentro do prazo, representando da melhor forma possível o resultado do nosso projeto.
