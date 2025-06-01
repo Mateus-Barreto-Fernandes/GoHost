@@ -91,6 +91,16 @@ Pagina de Cadastros e de Entrar
 ![image](https://github.com/user-attachments/assets/a324d697-33ff-4e83-921c-c5e440efd0e7)
 
 
+
+Pop up de FeedBack
+
+
+![image](https://github.com/user-attachments/assets/11052e39-70a0-417d-b9a5-3ca0b9ed2adc)
+
+
+
+
+
 Tema Dark
 
 
@@ -106,6 +116,11 @@ Tema Dark
 
 
 ![image](https://github.com/user-attachments/assets/fb419a8c-6db0-4e5d-85dd-e3c78ce9ddfb)
+
+
+
+![image](https://github.com/user-attachments/assets/724d5f57-b764-43e5-ac56-9bd7bf0efbfd)
+
 
 
 
