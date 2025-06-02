@@ -76,7 +76,12 @@ IMPLEMENTAÇÃO DA BARRA DE PESQUISA COM FUNCIONALIDADE DE FILTRO
 Adicionado um input de pesquisa utilizado
 Implementado um filtro em JavaScript para exibir apenas os resultados que correspondem à pesquisa.
 Melhorada a responsividade para garantir um funcionamento adequado em diferentes dispositivos.
-============================================================================================
 
+============================================================================================
+IMPLEMENTAÇÃO DO MODO ESCURO E CLARO COM ALTERNÂNCIA DINÂMICA
+
+Adicionado botão de alternância entre modo escuro e modo claro.
+Implementada lógica em JavaScript para salvar a preferência do usuário no localStorage.
+Ajustados estilos CSS para adaptação automática entre temas.
 
 
