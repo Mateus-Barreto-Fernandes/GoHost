@@ -55,3 +55,4 @@ Movi todas as tarefas concluídas para a coluna de "Finalizadas", adicionei obse
 Além disso, adicionei um cartão-resumo com o status geral do projeto, mencionando as etapas principais já concluídas e os últimos ajustes feitos. Essa organização do Trello não só facilita a visualização do fluxo de trabalho que tivemos ao longo do projeto, como também deixa o histórico mais claro para futuras consultas, seja para fins de revisão ou apresentação.
 
 Com isso, o Trello está agora totalmente coerente com o projeto finalizado e pronto para ser apresentado como parte do processo de entrega, reforçando a organização e o comprometimento da equipe ao longo do desenvolvimento.
+[Front-End.zip](https://github.com/user-attachments/files/20782033/Front-End.zip)
